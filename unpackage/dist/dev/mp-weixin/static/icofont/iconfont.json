@@ -1,0 +1,86 @@
+{
+  "id": "2709353",
+  "name": "网易云uni-app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1249000",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "1506147",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "2147715",
+      "name": "操作-关闭",
+      "font_class": "guanbi",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "9097251",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "9447889",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "15821667",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "17817468",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "17978894",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "19986335",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e7be",
+      "unicode_decimal": 59326
+    },
+    {
+      "icon_id": "21378499",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4272331",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    }
+  ]
+}
